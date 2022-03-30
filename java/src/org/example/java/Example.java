@@ -1,6 +1,6 @@
 package org.example.java;
 import org.test.java.*;
-public class Adding {
+public class Example {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

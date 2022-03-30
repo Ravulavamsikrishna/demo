@@ -1,0 +1,10 @@
+package packager.collection.example.java;
+
+public class example9 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

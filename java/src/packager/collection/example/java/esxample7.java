@@ -1,0 +1,17 @@
+package packager.collection.example.java;
+import java.util.Vector;
+public class esxample7 {
+
+	public static void main(String[] args) {
+		Vector vector = new Vector();
+		System.out.println(vector.capacity());
+		for (int i = 1; i <= 10; i++) {
+		vector.addElement(65694);
+		}
+		System.out.println(vector.capacity());
+		vector.addElement("Ashok");
+		System.out.println(vector.capacity());
+		System.out.println(vector);
+	}
+
+}

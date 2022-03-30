@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ravul
+ *
+ */
+module example {
+}
